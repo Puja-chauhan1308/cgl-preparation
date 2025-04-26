@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CGL Preps - English</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>English Preparation</h1>
+    <nav><a href="index.html">← Back to Home</a></nav>
+</header>
+
+<main>
+    <section class="topics">
+        <div class="topic-card">Spelling Correction</div>
+        <div class="topic-card">Cloze Test</div>
+        <div class="topic-card">Passage Reading</div>
+        <div class="topic-card">Error Detection</div>
+        <div class="topic-card">Synonyms / Antonyms</div>
+        <div class="topic-card">Idioms and Phrases</div>
+        <div class="topic-card">Active-Passive Voice</div>
+        <div class="topic-card">One Word Substitution</div>
+    </section>
+</main>
+
+<footer>
+    <p>© 2025 CGL Preps. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
